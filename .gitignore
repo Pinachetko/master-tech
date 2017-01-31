@@ -4,3 +4,8 @@ tech/settings/
 #log-files
 data/log/*.log
 
+#folder migrations and __pycache__  
+app/migrations/
+app/__pychache__/
+tech/__pycache__/
+
