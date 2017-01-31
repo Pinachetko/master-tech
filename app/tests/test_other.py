@@ -4,4 +4,8 @@ from django.test import TestCase
 
 
 def test01():
-	print("Hello new Branch")
+    print("Hello new Branch")
+
+
+def test02():
+    print("New test")
