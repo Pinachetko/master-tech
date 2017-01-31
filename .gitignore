@@ -1,0 +1,6 @@
+#folder settings
+tech/settings/
+
+#log-files
+data/log/*.log
+
