@@ -4,5 +4,9 @@ from django.test import TestCase
 
 
 def test01():
-  x = "Branch"
-	print(x + 'master')
+    x = "Branch"
+    print(x + 'master')
+
+
+def test02():
+    print("New test")
