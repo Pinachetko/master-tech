@@ -4,4 +4,4 @@ from django.test import TestCase
 
 
 def test01():
-	pass
+	print("Hello WORLD")
